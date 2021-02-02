@@ -1,0 +1,100 @@
+﻿
+@font-face {
+    font-family:'Ringbearer';
+    font-style: normal;
+    font-display: swap;
+    src: local('Roboto'), local('Roboto-Regular'),
+    url(fonts/RINGM__.ttf) format('ttf');
+
+}
+
+body {
+    background-color: #efefef;
+}
+
+h1 {
+    font-family: Ringbearer, Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    color: black;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    align-items: center;
+    margin-left: inherit;
+    align-self: center;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Ringbearer', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: black;
+    align-items: center;
+    margin-left: inherit;
+    align-self: center;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Ringbearer', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: black;
+    align-items: center;
+    margin-left: inherit;
+    align-self: center;
+    text-align: center;
+}
+
+p {
+    font-family: Calibri, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: black;
+    align-items: center;
+    margin-left: inherit;
+    align-self: center;
+    text-align: center;
+}
+
+a {
+    font-family: inherit;
+    font-size: large;
+    color: darkgoldenrod;
+    align-items: center;
+    margin-left: auto;
+    text-align: center;
+    font-style: normal;
+}
+
+header {
+    background-color: #000000;
+    display: table;
+    height: 6em;
+    width: 100%;
+}
+
+.headlinks {
+    font-family: 'Ringbearer', Verdana, Arial, sans-serif;
+    font-style: normal;
+    font-size: large;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: ghostwhite;
+    display: table-cell;
+    align-items: center;
+    margin-left: 10em;
+    align-self: center;
+    padding-left: 4em;
+    padding-right: 4em;
+    text-decoration: none;
+    vertical-align: middle;
+}
+.headlinks:hover {
+    background-color: lightgray;
+    height: 100%;
+    
+}
