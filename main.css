@@ -106,9 +106,16 @@ header {
     overflow: hidden;
 }
 
-.headmobile {
+.headmobileleft {
     display: table-cell;
     float: left;
+    width: 50%;
+    overflow: hidden;
+}
+
+.headmobileright {
+    display: table-cell;
+    float: right;
     width: 50%;
     overflow: hidden;
 }
