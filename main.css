@@ -141,7 +141,7 @@ header {
   z-index: 1;
 }
 
-.dropdown-content a, .dropdown-mobile a {
+.dropdown-content a, .dropcnt-mobile a {
   float: none;
   color: black;
   padding: 0.5em 0.5em;
