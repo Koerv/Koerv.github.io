@@ -109,7 +109,7 @@ header {
 .headmobile {
     display: table-cell;
     float: left;
-    width: 66%;
+    width: 66.66%;
     overflow: hidden;
 }
 
@@ -136,7 +136,7 @@ header {
 .dropcnt-mobile {
   display: none;
   position: absolute;
-  transform: translateY(-2em);
+  transform: translateY(-4em);
   background-color: #efefef;
   box-shadow: 0em 0.5em 0.5em 0em rgba(0,0,0,0.2);
   z-index: 1;
