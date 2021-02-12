@@ -107,10 +107,6 @@ header {
 }
 
 .headmobile {
-    font-family: 'ringbearermedium', Verdana, Arial, sans-serif;
-    font-size: 1.1em;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
     display: table-cell;
     float: left;
     width: 50%;
@@ -183,7 +179,10 @@ header {
   color: white;
   padding: 1em 1em;
   background-color: inherit;
-  font-family: inherit;
+  font-family: 'ringbearermedium', Verdana, Arial, sans-serif;
+  font-size: 1.1em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 table {
