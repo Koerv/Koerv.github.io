@@ -108,6 +108,7 @@ header {
 
 .headmobile {
     display: table-cell;
+    float: left;
     overflow: hidden;
 }
 
