@@ -106,7 +106,7 @@ header {
     overflow: hidden;
 }
 
-.headlinks-mobile {
+.headmobile {
     display: table-cell;
     overflow: hidden;
 }
@@ -148,7 +148,7 @@ header {
   display: block;
 }
 
-.headlinks-mobile:hover .dropdown-content {
+.headmobile:hover .dropdown-content {
   display: block;
 }
 
@@ -162,7 +162,7 @@ header {
   font-family: inherit;
 }
 
-.headlinks-mobile .dropbtn {
+.headmobile .dropbtn {
   font-size: 1em;  
   border: none;
   outline: none;
