@@ -15,7 +15,7 @@
 
 /* Small devices (tablets, 768px and up) */
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   .desktop-only-header {
     display: none;
   }
