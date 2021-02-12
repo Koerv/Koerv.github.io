@@ -99,8 +99,8 @@ header {
     -moz-osx-font-smoothing: grayscale;
     color: ghostwhite;
     display: table-cell;
-    padding-left: 4.77em;
-    padding-right: 4.77em;
+    padding-left: 4.6em;
+    padding-right: 4.6em;
     text-decoration: none;
     vertical-align: middle;
     overflow: hidden;
@@ -109,7 +109,7 @@ header {
 .headmobile {
     display: table-cell;
     float: left;
-    width: 50%;
+    width: 66%;
     overflow: hidden;
 }
 
@@ -126,7 +126,7 @@ header {
 .dropdown-content {
   display: none;
   position: absolute;
-  right: 28.45%;
+  right: 28.7%;
   transform: translateY(2.25em);
   background-color: #efefef;
   box-shadow: 0em 0.5em 0.5em 0em rgba(0,0,0,0.2);
