@@ -22,7 +22,6 @@
   .mobile-only-header {
     display: block;
     background-color: #151515;
-    width: 396px;
     margin:0;
     padding:0;
   }
@@ -118,11 +117,11 @@ header {
 .headmobile {
     display: table-cell;
     float: none;
+    padding-left: 2em;
     overflow: hidden;
 }
 
 .mobile-home {
-    background-color:#151515;
     display: table-cell;
     float: left;
     overflow: hidden;
@@ -197,7 +196,6 @@ header {
   border: none;
   outline: none;
   color: white;
-  padding: 1em 1em;
   background-color: inherit;
   font-family: 'ringbearermedium', Verdana, Arial, sans-serif;
   font-size: 1.1em;
