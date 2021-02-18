@@ -20,8 +20,9 @@
     display: none;
   }
   .mobile-only-header {
-    display: initial;
+    display: block;
     background-color: #151515;
+    width: 396px;
     margin:0;
     padding:0;
   }
@@ -116,8 +117,14 @@ header {
 
 .headmobile {
     display: table-cell;
+    float: none;
+    overflow: hidden;
+}
+
+.mobile-home {
+    background-color:#151515;
+    display: table-cell;
     float: left;
-    width: 70%;
     overflow: hidden;
 }
 
