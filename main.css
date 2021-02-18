@@ -117,7 +117,7 @@ header {
 .headmobile {
     display: table-cell;
     float: none;
-    padding-left: 2em;
+    padding-left: 0em;
     overflow: hidden;
 }
 
