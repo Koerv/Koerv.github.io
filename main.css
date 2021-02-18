@@ -151,8 +151,7 @@ header {
 .dropcnt-mobile {
   display: none;
   position: absolute;
-  right: 3.5%;
-  transform: translateY(-2.4em);
+  right: 10%;
   background-color: #efefef;
   box-shadow: 0em 0.5em 0.5em 0em rgba(0,0,0,0.2);
   z-index: 1;
