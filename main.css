@@ -118,12 +118,16 @@ header {
     display: table-cell;
     float: none;
     overflow: hidden;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
 }
 
 .mobile-home {
     display: table-cell;
     float: left;
     overflow: hidden;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
 }
 
 .headlinks:hover {
