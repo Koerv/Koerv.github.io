@@ -43,9 +43,10 @@ h1 {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     align-items: center;
-    margin-left: inherit;
-    align-self: center;
-    text-align: center;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+    align-self: flex-start;
+    text-align: left;
 }
 
 h2 {
@@ -55,9 +56,10 @@ h2 {
     -moz-osx-font-smoothing: grayscale;
     color: black;
     align-items: center;
-    margin-left: inherit;
-    align-self: center;
-    text-align: center;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+    align-self: flex-start;
+    text-align: left;
 }
 
 h3 {
@@ -67,9 +69,10 @@ h3 {
     -moz-osx-font-smoothing: grayscale;
     color: black;
     align-items: center;
-    margin-left: inherit;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
     align-self: center;
-    text-align: center;
+    text-align: left;
 }
 
 p {
@@ -79,10 +82,10 @@ p {
     -moz-osx-font-smoothing: grayscale;
     color: black;
     align-items: center;
-    margin-left: 1em;
-    margin-right: 1em;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
     align-self: center;
-    text-align: center;
+    text-align: left;
 }
 
 a {
